@@ -1,4 +1,4 @@
-## Undefined business card generator (JS project)
+## Team project. Undefined business card generator (JS, SASS, HTML, Scrum)
 
 <a target="_blank" href="https://barbaramoran.github.io/undefined-cards/"><img src="https://i.ibb.co/XYD598d/undefined.jpg"/></a>
 
