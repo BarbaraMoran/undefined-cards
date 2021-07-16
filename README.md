@@ -1,16 +1,16 @@
-![logo-u]
+## Undefined business card generator (JS project)
 
-##![Undefined] PROYECTO MODULO 2 EQUIPO 5 ADALAB
+<a target="_blank" href="https://barbaramoran.github.io/undefined-cards/"><img src="https://i.ibb.co/XYD598d/undefined.jpg"/></a>
 
 ---
 
 **Nombre del equipo - Undefined :**
 
-Este es el proyecto del módulo 02 de Adalab. El proyecto consiste en el desarrollo de una plicación web que nos permite crear una tarjeta de visita personalizada. En la página web podemos introducir nuestros datos profesionales y obtener una vista maquetada con esta información. El objetivo principal es mostrar las capacidades y habilidades de las integrantes del equipo, al mismo tiempo que poder usar para crear nuestras propias tarjetas de visita profesionales. Este producto ofrece una forma dinámica e interactiva de conocer nuestras capacidades como programadoras, y por tanto facilita la interacción entre recruiters y candidatas.
+Este es el proyecto del módulo 02 de Adalab. El proyecto consiste en el desarrollo de una aplicación web que nos permite crear una tarjeta de visita personalizada. En la página web podemos introducir nuestros datos profesionales y obtener una vista maquetada con esta información. El objetivo principal es mostrar las capacidades y habilidades de las integrantes del equipo, al mismo tiempo que poder usar para crear nuestras propias tarjetas de visita profesionales. Este producto ofrece una forma dinámica e interactiva de conocer nuestras capacidades como programadoras, y por tanto facilita la interacción entre recruiters y candidatas.
 
-Demo Para ver el resultado del desarrollo de la página web puedes visitar el siguiente enlace: http://beta.adalab.es/project-promo-m-module-2-team-5/
+Demo Para ver el resultado del desarrollo de la página web puedes visitar el siguiente enlace: https://barbaramoran.github.io/undefined-cards/
 
-**_𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝗲𝗺𝗽𝗹𝗲𝗮𝗱𝗮𝘀:_**
+**Tecnologías empleadas**
 
 Nuestra página está maquetada en HTML5 y CSS3. Además, nos hemos servido del preprocesador SASS y de Gulp. Con la utilización de estas tecnologías hemos conseguido automatizar tareas, trabajar con un código más ordenado y limpio, a la vez que optimizado para que nuestra web cargue rápidamente. Con respecto al control de versiones, hemos creado diferentes ramas según la funcionalidad de cada una, solventando los conflictos con soltura.
 
